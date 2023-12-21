@@ -65,7 +65,7 @@
 
 .header{
     height: 100px;
-    width: 100%;
+    width: 1800px;
     background-color: black;
     text-align: center;
     padding-top: 95px;
@@ -76,7 +76,7 @@
 .sticky {
     position: sticky;
     top: 0;
-    width: 100%;
+    width: 1800px;
     z-index:9;
 }
 

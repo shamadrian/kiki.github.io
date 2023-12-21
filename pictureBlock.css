@@ -6,7 +6,7 @@
 .wallpaper{
     position: relative;
     height: 800px;
-    width:100%;
+    width: 1800px;
     object-fit: cover;
     object-position: 50% 70%;
     opacity:1;
